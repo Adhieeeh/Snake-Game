@@ -20,18 +20,18 @@ A classic Snake game built using Python's built-in `turtle` graphics library. Th
 
 Controls
 
-  Up Arrow: Move Up
+    Up Arrow: Move Up
 
-  Down Arrow: Move Down
+    Down Arrow: Move Down
 
-  Left Arrow: Move Left
+    Left Arrow: Move Left
 
-  Right Arrow: Move Right
+    Right Arrow: Move Right
 
 Future Improvements
 
-  Add a scoring system.
+    Add a scoring system.
 
-  Add body segments that grow when the snake eats.
+    Add body segments that grow when the snake eats.
 
-  Implement "Game Over" text and high scores.
+    Implement "Game Over" text and high scores.
